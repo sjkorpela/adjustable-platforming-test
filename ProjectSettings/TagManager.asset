@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Debug
   layers:
   - Default
   - TransparentFX
@@ -36,8 +37,11 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - Debug
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Debug
+    uniqueID: 2310521575
     locked: 0
